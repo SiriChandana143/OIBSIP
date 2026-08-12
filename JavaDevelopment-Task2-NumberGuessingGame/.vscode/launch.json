@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.numberquest.Main",
+            "projectName": "JavaDevelopment-Task2-NumberGuessingGame_ef6b1ff9"
+        },
+        {
+            "type": "java",
+            "name": "Run Number Quest",
+            "request": "launch",
+            "mainClass": "com.numberquest.Main",
+            "projectName": "JavaDevelopment-Task2-NumberGuessingGame"
+        }
+    ]
+}
