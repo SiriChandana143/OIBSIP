@@ -1,0 +1,33 @@
+# Compiled
+target/
+dist/
+build/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Uploads
+uploads/
+
+# Maven
+.mvn/wrapper/maven-wrapper.jar

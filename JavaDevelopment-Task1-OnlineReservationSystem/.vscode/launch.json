@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run Online Reservation System",
+            "request": "launch",
+            "mainClass": "Main",
+            "classPaths": [
+                "$Auto",
+                "${workspaceFolder}/lib/sqlite-jdbc.jar",
+                "${workspaceFolder}"
+            ]
+        }
+    ]
+}
