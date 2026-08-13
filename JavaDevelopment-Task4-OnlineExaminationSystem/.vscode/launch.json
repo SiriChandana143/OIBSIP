@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "java-4_51001007"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "java-4_fac2504"
+        },
+        {
+            "name": "Run via run.bat",
+            "type": "node-terminal",
+            "request": "launch",
+            "command": "cmd.exe /c run.bat",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
